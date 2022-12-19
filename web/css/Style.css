@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 17, 2022, 8:14:07 PM
+    Author     : Naser
+*/
+
+a{
+    margin-bottom:0.2em;
+    margin-top:0.2em;
+}
+
+.parent,.img, .btntab{
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.5em;    
+}
+.f{
+    display: flex;
+    justify-content:space-around;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.parent,.img{
+     margin-top: 0.5em;
+}
+.btntab a, input[type=submit]{
+  margin: 0.2em
+}
+
+.child{
+    margin-right: auto;
+    max-width: 500px;
+}
+h1{
+    max-width: 500px;
+    font-style: italic;
+    color: #f8f9fa!important;
+    padding: 0.3em
+}
+div form{
+   padding: 0.5em 
+}
+
+td{  
+   text-align: left
+}
+th{
+    font-style: italic;
+    color: #f8f9fa;
+    font-size: 1em;
+    
+}
+
+
+
+
